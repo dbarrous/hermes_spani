@@ -33,6 +33,8 @@ Overview
 .. end-badges
 
 This is a Python package for processing and analyzing data from the Solar Probe Analyzer for Ions (SPAN-i) instrument on the Lunar Gateway.
+The SPAN-i ion sensor measures Interplanetary and Magnetotail ion flux as functions of direction and energy/charge from several eV/q to 20 keV/q.
+A time-of-flight section enables it to sort particles by their mass/charge ratio, permitting differentiation of ion species.
 
 License
 -------

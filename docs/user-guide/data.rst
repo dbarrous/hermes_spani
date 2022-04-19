@@ -18,11 +18,6 @@ Data Description
 |          |                                       | field components for all three sensors|
 +----------+---------------------------------------+---------------------------------------+
 
-
-
-
-
-
 Getting Data
 ============
 
