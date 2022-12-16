@@ -1,5 +1,5 @@
 {
-    "template": "/home/dbarrous/dbarrous/hermes_instrument",
+    "template": "https://github.com/HERMES-SOC/hermes_instrument.git",
     "commit": "35cde43220942734867e5207ff69464435120c1a",
     "checkout": null,
     "skip": [
@@ -9,7 +9,7 @@
     "context": {
       "cookiecutter": {
         "instr_name": "spani",
-        "_template": "/home/dbarrous/dbarrous/hermes_instrument"
+        "_template": "https://github.com/HERMES-SOC/hermes_instrument.git"
       }
     },
     "directory": null
