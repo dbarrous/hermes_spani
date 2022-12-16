@@ -1,0 +1,16 @@
+{
+    "template": "/home/dbarrous/dbarrous/hermes_instrument",
+    "commit": "35cde43220942734867e5207ff69464435120c1a",
+    "checkout": null,
+    "skip": [
+      "README.rst/",
+      "docs",
+      "docs/*"],
+    "context": {
+      "cookiecutter": {
+        "instr_name": "spani",
+        "_template": "/home/dbarrous/dbarrous/hermes_instrument"
+      }
+    },
+    "directory": null
+}
