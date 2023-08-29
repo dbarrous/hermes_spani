@@ -1,0 +1,11 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -147,5 +147,8 @@ docs/_build
+ docs/generated
+ docs/api
+ docs/whatsnew/latest_changelog.txt
+-hermes_spani/version.py
++hermes_spani/_version.py
+ htmlcov/
++
++# Mac hidden files
++.DS_Store

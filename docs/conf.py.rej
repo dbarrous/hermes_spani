@@ -1,0 +1,11 @@
+diff a/docs/conf.py b/docs/conf.py	(rejected hunks)
+@@ -42,6 +42,9 @@ extensions = [
+     "sphinx_changelog",
+ ]
+ 
++# Set automodapi to generate files inside the generated directory
++automodapi_toctreedirnm = "generated/api"
++
+ # Set automodapi to generate files inside the generated directory
+ # automodapi_toctreedirnm = "_build/html/api"
+ numpydoc_show_class_members = False
